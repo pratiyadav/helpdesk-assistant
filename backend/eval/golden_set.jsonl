@@ -1,0 +1,48 @@
+{"question": "VPN says my token expired, how do I fix it?", "answerable": true, "gold_snippet": "Scan the new QR code"}
+{"question": "What does error VPN-403 mean?", "answerable": true, "gold_snippet": "not in the remote-access group"}
+{"question": "The VPN gateway keeps timing out, what should I try?", "answerable": true, "gold_snippet": "retry on a different network"}
+{"question": "What's the minimum password length?", "answerable": true, "gold_snippet": "at least 14 characters"}
+{"question": "How often do passwords expire?", "answerable": true, "gold_snippet": "expire every 180 days"}
+{"question": "Can I reuse an old password?", "answerable": true, "gold_snippet": "last 10 passwords"}
+{"question": "My laptop battery is swollen and hot, what do I do?", "answerable": true, "gold_snippet": "stop using it immediately"}
+{"question": "How do I ask for a new keyboard or monitor?", "answerable": true, "gold_snippet": "submit the Hardware Request form"}
+{"question": "How long until a requested monitor arrives?", "answerable": true, "gold_snippet": "fulfilled within 5 business days"}
+{"question": "Can I use text message codes for MFA?", "answerable": true, "gold_snippet": "SMS codes are not allowed"}
+{"question": "I lost my old phone and can't get MFA codes", "answerable": true, "gold_snippet": "call the IT Service Desk on extension 5000"}
+{"question": "How fast must I report a lost security key?", "answerable": true, "gold_snippet": "within 2 hours"}
+{"question": "What is the biggest attachment I can email?", "answerable": true, "gold_snippet": "larger than 25 MB are blocked"}
+{"question": "How do I report a phishing email?", "answerable": true, "gold_snippet": "Report Phish"}
+{"question": "How do I get a shared mailbox?", "answerable": true, "gold_snippet": "Approval from the mailbox owner is required"}
+{"question": "What do guests use for Wi-Fi?", "answerable": true, "gold_snippet": "daily code from reception"}
+{"question": "Can I install Zoom myself or do I need a ticket?", "answerable": true, "gold_snippet": "installed from the Company Portal without a ticket"}
+{"question": "How long does a software security review take?", "answerable": true, "gold_snippet": "5 to 10 business days"}
+{"question": "How long does temporary admin access last?", "answerable": true, "gold_snippet": "lasts 4 hours"}
+{"question": "My laptop might have malware, what should I do?", "answerable": true, "gold_snippet": "disconnect it from the network but do not shut it down"}
+{"question": "Who do I call about a security incident at night?", "answerable": true, "gold_snippet": "extension 5999"}
+{"question": "Can IT see my photos if I enroll my phone?", "answerable": true, "gold_snippet": "does not give IT access to personal photos"}
+{"question": "What screen lock does a BYOD phone need?", "answerable": true, "gold_snippet": "screen lock of 6 digits or more"}
+{"question": "Does the company back up my laptop?", "answerable": true, "gold_snippet": "Laptops are not backed up"}
+{"question": "How long can I recover deleted OneDrive files?", "answerable": true, "gold_snippet": "recycle bin for 93 days"}
+{"question": "When do I pick up my laptop on my first day?", "answerable": true, "gold_snippet": "between 9:00 and 10:00 AM"}
+{"question": "What is the deadline for security awareness training?", "answerable": true, "gold_snippet": "within 7 days of joining"}
+{"question": "What happens to my mailbox after I leave?", "answerable": true, "gold_snippet": "retained for 90 days"}
+{"question": "When are my accounts disabled on my last day?", "answerable": true, "gold_snippet": "disabled at 6 PM"}
+{"question": "How soon does my screen lock when working remotely?", "answerable": true, "gold_snippet": "lock after 5 minutes of inactivity"}
+{"question": "Where can I print in color?", "answerable": true, "gold_snippet": "restricted to the second-floor printer"}
+{"question": "When am I allowed to use Zoom?", "answerable": true, "gold_snippet": "external customers only"}
+{"question": "Are USB drives allowed?", "answerable": true, "gold_snippet": "USB drives are blocked by default"}
+{"question": "What are the Service Desk hours?", "answerable": true, "gold_snippet": "Monday to Friday from 8:00 AM to 8:00 PM IST"}
+{"question": "How quickly is a Priority 1 issue answered?", "answerable": true, "gold_snippet": "response within 30 minutes"}
+{"question": "How do I get access to my department's shared drive?", "answerable": true, "gold_snippet": "approved or rejected within 2 business days"}
+{"question": "Can I paste customer data into a public AI chatbot?", "answerable": true, "gold_snippet": "Never paste Confidential data into public AI chat tools"}
+{"question": "Can I use public Wi-Fi at a cafe while working?", "answerable": true, "gold_snippet": "only when the VPN is connected"}
+{"question": "What is the company's parental leave policy?", "answerable": false}
+{"question": "How do I submit an expense report for travel?", "answerable": false}
+{"question": "How do I set up a Linux workstation with dual boot?", "answerable": false}
+{"question": "How do I reset my forgotten Windows login password?", "answerable": false}
+{"question": "Which VPN protocol does the gateway use, OpenVPN or WireGuard?", "answerable": false}
+{"question": "How do I back up my personal photos from my phone?", "answerable": false}
+{"question": "What are the cafeteria opening hours?", "answerable": false}
+{"question": "Does the company provide a corporate credit card?", "answerable": false}
+{"question": "How do I fix a blue screen error on my laptop?", "answerable": false}
+{"question": "How do I enable dark mode in Outlook?", "answerable": false}

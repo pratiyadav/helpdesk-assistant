@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+psycopg[binary]
+psycopg_pool
+pgvector
+numpy
+sentence-transformers
+google-genai>=1.30
+pypdf
+pyjwt
+bcrypt
+pytest
